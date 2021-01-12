@@ -1,0 +1,10 @@
+var qualifications  = ["SSC","HSC","BCS","BS","BCOM","MS","M.Phil.","PHD"];
+document.write ("<h1> Qualifications: </h1>");
+document.write ("<b> 1) "+ qualifications[0]);
+document.write ("<br> 2) "+ qualifications[1]);
+document.write ("<br> 3) "+ qualifications[2]);
+document.write ("<br> 4) "+ qualifications[3]);
+document.write ("<br> 5) "+ qualifications[4]);
+document.write ("<br> 6) "+ qualifications[5]);
+document.write ("<br> 7) "+ qualifications[6]);
+document.write ("<br> 8) "+ qualifications[7]);
